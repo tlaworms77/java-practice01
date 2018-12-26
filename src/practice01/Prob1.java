@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Prob1 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner( System.in );
-		System.out.println("¼ıÀÚ¸¦ ¤·;¤²·« ÇÖ[¿ä");
+		System.out.println("ASDã…ã„´ã…‡ã…ã„´ã…‡");
 		
 		scanner.close();
 	}
